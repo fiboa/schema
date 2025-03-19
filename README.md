@@ -1,5 +1,8 @@
 # fiboa Schema
 
+> [!WARNING]
+> This repository has been deprecated in favor of <https://github.com/vecorel/sdl>
+
 As fiboa is targeting multiple encodings, there's no single solution for validation.
 We must define our own validation vocabulary, based on the fiboa Schema [data types](datatypes.md).
 Nevertheless, fiboa Schema can be translated into JSON Schema.
